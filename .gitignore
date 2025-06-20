@@ -1,0 +1,8 @@
+# Hidden files
+.*
+
+# Outputs
+*.pdf
+*.png
+*.jpg
+*.jpeg
