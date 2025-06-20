@@ -1,0 +1,27 @@
+Variable,Rol,Descripción,Fuente,Observaciones,Mínimo,Máximo,Media
+cetes_12m,Input,"Rendimiento mensual de CETES a 12 meses, deflactado",BBVA Research / Riesgo de Mercados,208,3,12.1,6.293461538
+cetes_1m,Input,"Rendimiento mensual de CETES a 1 mes, deflactado",BBVA Research / Riesgo de Mercados,208,2.64,11.33,5.890144231
+cetes_3m,Input,"Rendimiento mensual de CETES a 3 meses, deflactado",BBVA Research / Riesgo de Mercados,208,2.84,11.57,6.041201923
+cetes_6m,Input,"Rendimiento mensual de CETES a 6 meses, deflactado",BBVA Research / Riesgo de Mercados,208,2.97,11.98,6.177644231
+exchange_rate_usd,Input,"Tipo de cambio peso/dólar (promedio mensual), deflactado",BBVA Research / Riesgo de Mercados,208,10.09,24.17,15.99259615
+exportaciones_no_petroleras,Input,"Valor de exportaciones no petroleras (mensual, USD)",BBVA Research / Riesgo de Mercados,208,45451.61433,143074.8099,90773.66019
+imss,Input,Número de asegurados en el IMSS (mensual),BBVA Research / Riesgo de Mercados,208,13794601,22409268,17772036.44
+inpc,Input,"Índice Nacional de Precios al Consumidor (mensual, base 2007)",BBVA Research / Riesgo de Mercados,208,62.98,134.34,91.82836538
+official_interest_rate_usa,Input,Tasa de política monetaria de la Fed (mensual),BBVA Research / Riesgo de Mercados,208,0.25,5.5,1.403846154
+pib,Input,Producto Interno Bruto mensual real desestacionalizado,BBVA Research / Riesgo de Mercados,208,18590236,25361050,22323723.12
+s&p500,Input,Nivel del índice S&P 500 mensual,BBVA Research / Riesgo de Mercados,208,797.87,5309.299044,2350.586235
+sovereign_10y,Input,Rendimiento de bonos soberanos MX a 10 años,BBVA Research / Riesgo de Mercados,208,4.48,10.2,7.173076923
+sovereign_3y,Input,Rendimiento de bonos soberanos MX a 3 años,BBVA Research / Riesgo de Mercados,208,3.96,10.66,6.483221154
+sovereign_5y,Input,Rendimiento de bonos soberanos MX a 5 años,BBVA Research / Riesgo de Mercados,208,4.11,10.25,6.733028846
+stock_market,Input,Índice del mercado accionario local (mensual),BBVA Research / Riesgo de Mercados,208,19626.75,58823.57,41506.60499
+tasa_desempleo,Input,Tasa de desempleo mensual,BBVA Research / Riesgo de Mercados,208,2.5,6.129,4.15431438
+tasa_fondeo_1d,Input,Tasa de fondeo bancario a 1 día,BBVA Research / Riesgo de Mercados,208,3.02,11.29,5.975528846
+treasury_10y,Input,Rendimiento de bonos del Tesoro EE.UU. a 10 años,BBVA Research / Riesgo de Mercados,208,0.62,5.1,2.669471154
+treasury_1m,Input,Rendimiento de bonos del Tesoro EE.UU. a 1 mes,BBVA Research / Riesgo de Mercados,208,0.01,5.57,1.167451923
+treasury_1y,Input,Rendimiento de bonos del Tesoro EE.UU. a 1 año,BBVA Research / Riesgo de Mercados,208,0.05,5.44,1.400480769
+treasury_3m,Input,Rendimiento de bonos del Tesoro EE.UU. a 3 meses,BBVA Research / Riesgo de Mercados,208,0.01,5.6,1.232644231
+treasury_3y,Input,Rendimiento de bonos del Tesoro EE.UU. a 3 años,BBVA Research / Riesgo de Mercados,208,0.16,5,1.704759615
+treasury_5y,Input,Rendimiento de bonos del Tesoro EE.UU. a 5 años,BBVA Research / Riesgo de Mercados,208,0.27,5.03,2.064423077
+treasury_6m,Input,Rendimiento de bonos del Tesoro EE.UU. a 6 meses,BBVA Research / Riesgo de Mercados,208,0.04,5.57,1.331586538
+vix,Input,Índice de volatilidad implícita VIX (mensual),BBVA Research / Riesgo de Mercados,208,9.138833,53.54,20.20065241
+vix_bmv,Input,Índice de volatilidad de la Bolsa Mexicana de Valores (mensual),BBVA Research / Riesgo de Mercados,208,12.243989,28.084707,19.17910644
