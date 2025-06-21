@@ -6,3 +6,6 @@
 *.png
 *.jpg
 *.jpeg
+
+# Venv
+chall
