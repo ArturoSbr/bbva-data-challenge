@@ -68,9 +68,9 @@ def plot_dual_y(
     label2 = series2.replace('_', ' ').title()
 
     # Plot series1 on left y-axis
-    ax1.plot(df[series1], color=color1)
+    ax1.plot(df[series1], color=color1, lw=2)
     ax1.set_ylabel(label1, color=color1)
-    ax1.tick_params(axis='y', color=color1)
+    ax1.tick_params(axis='y')  # , labelcolor=color1)
     ax1.grid(visible=grid)
 
     # Set custom x-ticks
@@ -80,9 +80,9 @@ def plot_dual_y(
 
     # Plot series2 on right y-axis
     ax2 = ax1.twinx()
-    ax2.plot(df[series2], color=color2)
-    ax2.set_ylabel(label2, color=color2)
-    ax2.tick_params(axis='y', color=color2)
+    ax2.plot(df[series2], color=color2, lw=2)
+    ax2.set_ylabel(label2, color=color2, rotation=270, labelpad=10)
+    ax2.tick_params(axis='y')  # , labelcolor=color2)
 
     plt.tight_layout()
     if filename:
